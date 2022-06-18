@@ -1,0 +1,24 @@
+Assignment 1 
+
+1-> Javascipt can be used to develop following things: 
+	Blockchain
+	Web Applications
+	Desktop Applications 
+	Data Structures and Algorithms
+	Website Development
+
+
+2-> Client side : this is what we see kind of frontend. 
+
+    Server Side : this focus on the behind-the-scenes like transmiting data to the server kind of backend
+
+
+3 -> Node js is a V8 javascript engine. 
+
+5 -> JS is a synchronous programming language, that means one operation can be done once at a time.
+
+6- > javascript is a single-threaded language 
+
+7 - > DOM is a object model that defines logical structure of documents and the way it is accesed and manipulated
+	
+	
