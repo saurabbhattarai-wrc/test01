@@ -1,0 +1,39 @@
+Assignment 2 
+
+1-> lexical structure means the format, the way we write the code in any programming language.
+
+2-> Unicode is a international encoding standard for the different scripts, numeric values and symbols. It have a fixed defined code.
+
+3-> keywords in JS 
+
+Public -> to make the class public. 
+
+Static -> to make something not changeable or inheritable. 
+
+throw -> used in exception handling.
+
+return -> to return some value to the function 
+
+this -> this is used to specify the variable within the function
+
+implements -> similar like inherited. 
+
+enum -> define set if named constants. 
+
+4-> shorthand operators are the minimilistic operators for different purposes in JS.
+eg. 
+
+assignment : x = f()
+addition assignment : x+=f() ==> x = x+f()
+Division assignment : x/=f() ==> x= x/f()
+Exponentiation assignment : x**=f() ==> x = x**f()
+
+
+5-> The purpose of "use strict" is to indicate that the code should be executed in "strict mode".
+
+With strict mode, you can not, for example, use undeclared variables.
+
+
+
+
+ 
